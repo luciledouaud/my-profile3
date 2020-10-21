@@ -1,0 +1,106 @@
+body{
+	background-color:#14274e;
+	font-size:15px;
+	line-height:1.6;
+}
+/*welcome,je suis lucile*/
+h1 {color:#394867;
+	font-family: <link href='https://fonts.googleapis.com/css?family=Fredericka the Great' rel='stylesheet'>
+    <style>
+    font-family: 'Fredericka the Great';
+    font-size: 40px;
+    text-align: center;
+}
+    </style>, 
+/*chargée de market*/
+h2 {color:#394867;
+	font-family: '<link href='https://fonts.googleapis.com/css?family=Fredericka the Great' rel='stylesheet'>
+     <style>
+      body {
+      font-family: 'Fredericka the Great';
+      font-size: 22px;
+      text-align: center;
+} 
+}
+/*descriptif*/
+h3 {color:#394867;
+	font-family: '<link href='https://fonts.googleapis.com/css?family=Fredericka the Great' rel='stylesheet'>
+     <style>
+      body {
+      font-family: 'Fredericka the Great';
+      font-size: 22px;
+      text-align: center;
+}
+}
+/*bandeau écriture*/
+p {
+	font-family: 'Helvetica', font-size;
+	text-align: justify;
+}
+a {
+	text-decoration: none;
+	color:#9ba4b4;
+	transition: color 0.3s ease;
+}
+/*surlignage lien*/
+a:hover {
+	color: #f1f6f9;
+}
+
+#card_menu {
+	display:inline-block;
+  	position: fixed;
+  	background-color:#14274e;
+  	margin: -2em;
+  	height: 55px;
+  	width: 100%;
+  	font-family: 'Times New Roman',bloder;
+  	color:#FEF5EF; 
+  	box-shadow: 0 10px 10px rgba(50,50,93,.1);
+	list-style:none;
+ }
+/*bandeau et alignement*/
+.liste_menu {
+	float: right;
+	margin-right: 150px;
+}
+
+.liste_menu li {
+	display: inline;
+	padding-left: 50px; 
+ }
+
+.container {
+	width: 700px;
+	margin: 25px auto;
+}
+
+/*boxshadow*/
+.card_content {
+	background:#f1f6f9;
+	margin: 25px 0;
+	padding: 40px 70px;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px rgba(0,0,30,.1);
+}
+
+.img_circle {
+	display: block;
+	width: 200px;
+	margin: 5px auto;
+	border-radius: 50px;
+}
+
+.button {
+	display: block;
+	width: 200px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: #14274e;
+	border-radius: : 0px;
+	padding: 5px 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
